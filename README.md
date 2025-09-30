@@ -1,11 +1,11 @@
 # 🎶Davi✏️
 
-**`Desenvolvedor junior e quero ser Game desing`**
+**`Desenvolvedor junior e tenho o desejo de ser game desing`**
 
-Me chamo Davi Oliveira Freitas, tenho 16 anos e sou natural de Belo Horizonte. Atualmente estou no segundo ano do Ensino medio na Instituição SESI/SENAI Horto e cursando TI. Sou apaixonado por jogos digitais no geral e desenhos em pixels, Tenho o sonho de me tornar um game desing para poder desenhar meus próprios Sprites. Já desenhei Sprites para um jogo que meu amigo e eu fizemos.
+Me chamo Davi Oliveira Freitas, tenho 16 anos e sou natural de Belo Horizonte. Atualmente estou no segundo ano do Ensino medio na Instituição SESI Horto e cursando TI. Sou apaixonado por jogos digitais no geral e desenhos em pixels, Tenho o sonho de me tornar um game desing para poder desenhar meus próprios Sprites. Já desenhei Sprites para um jogo que meu amigo e eu fizemos. Gostaria de aprender a desenhar em pixel art e receber sugestões de como melhorar em meus desenhos e tenho aprendido e praticado Inglês e Libras.
 
 <p align="left">
-    <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers](https://github.com/NotsoGG-davi)">
+    <a href="(https://github.com/NotsoGG-davi)">
     </a>
 </p>
 
