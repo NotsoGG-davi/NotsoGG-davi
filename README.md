@@ -37,7 +37,8 @@ Me chamo Davi Oliveira Freitas, tenho 16 anos e sou natural de Belo Horizonte. A
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<br>
+<br>
 
 ### 📊 Estatísticas
 
